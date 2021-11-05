@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+header{
+   background-color: rgba(0, 0, 255, 0.342);
+   height: 50px;
+}
+.titre{
+    width: 100%;
+    max-width: 100%;
+}
