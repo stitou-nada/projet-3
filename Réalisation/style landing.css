@@ -2,10 +2,71 @@ body{
     background-color: black;
 }
 header{
-   background-color: rgba(0, 0, 255, 0.342);
+   background-color: rgba(0, 0, 0, 0.664);
    height: 50px;
+   position: relative;
+}
+.logo{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 30px ;
+    width: 365px;
 }
 .titre{
     width: 100%;
-    max-width: 100%;
+    margin-top: -50px;
+    height: 500px;
+
 }
+.haltere{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+form{
+        margin-top: -374px;
+        margin-left: 111px;
+        font-size: 30px;
+        background-color: #c12e386b;
+        position: absolute;
+        padding: 36px;
+        border-radius: 18px;
+        height: 215px;
+        -webkit-border-radius: 18px;
+        -moz-border-radius: 18px;
+        -ms-border-radius: 18px;
+        -o-border-radius: 18px;
+}
+.msg{
+    margin-top: 12px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    margin-top: 14px;
+    margin-left: 598px;
+    font-size: 80px;
+}
+.picture{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: -161px;
+}
+
+.pic{
+        width: 400px;
+        height: 400px;
+        margin: 52px;
+        margin-top: 192px;
+       
+}
+p{
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+}
+.prg{
+    
+}
+
