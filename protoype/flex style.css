@@ -1,0 +1,27 @@
+.container{
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav ul li{
+    flex: 0 0 100px;
+    background-color: rgb(80, 45, 82);
+    margin: 3px;
+    padding: 0 4px;
+    color: aliceblue;
+}
+
+aside{
+    background-color: rgb(175, 133, 169);
+}
+
+footer{
+    background-color: rgb(17, 4, 53);
+    color: white;
+}
