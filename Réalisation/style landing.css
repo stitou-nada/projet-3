@@ -2,6 +2,7 @@ header{
    background-color: rgba(0, 0, 0, 0.664);
    height: 50px;
    position: relative;
+   width:1574px ;
 }
 .logo{
     position: absolute;
@@ -9,10 +10,12 @@ header{
     margin-left: 30px ;
     width: 365px;
 }
+
 .titre{
-    width: 100%;
+    width: 1574px;
     margin-top: -50px;
     height: 500px;
+  
     
 
 }
@@ -20,6 +23,7 @@ header{
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: 2rem;
+    margin-right: -292px;
 }
 form{
         margin-top: -374px;
@@ -35,9 +39,40 @@ form{
         -ms-border-radius: 18px;
         -o-border-radius: 18px;
 }
+.prénom{
+    background-color: black;
+    color: white;
+}
+.nom{
+    background-color: black;
+    color: white;
+}
+.email{
+    background-color: black;
+    color: white;
+}
+.ville{
+    background-color: black;
+    color: white;
+}
 .msg{
     margin-top: 12px;
+    background-color: black;
+    color: white;
 }
+.submit{
+    background-color: #C12E38;
+    color: white;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    width: 206px;
+    height: 35px;
+    margin-left: 70px;
+}
+
 
 h1{
     color: rgb(255, 255, 255);
@@ -51,6 +86,7 @@ h1{
     margin: 20px;
     margin-top: 100px;
     border: tomato;
+    margin-right: -309px;
 
   
 }
@@ -67,7 +103,21 @@ div{
     font-size: 15px;
     color: white;
 }
+footer{
+}
 
+.footer-div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: -223px;
+    margin-left: 83px;
+    margin-top: 141px;
+    background-color: #C12E38;
+}
 
-
-
+a{
+    text-decoration: none;
+    color: white;
+}
