@@ -1,0 +1,121 @@
+
+header{
+   background-color: rgba(0, 0, 0, 0.664);
+   height: 50px;
+   position: relative;
+   width:1574px ;
+}
+.logo{
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 30px ;
+    width: 365px;
+}
+
+.titre{
+    max-width: 100%;
+    width: 100%;
+    margin-top: -50px;
+    height: 500px;
+}
+.haltere{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+    
+}
+h1{
+    color: rgb(255, 255, 255);
+   text-align: center;
+    font-size: 80px;
+}
+form{
+        margin-top: -374px;
+        text-align: center;
+        font-size: 30px;
+        background-color: #c12e386b;
+        position: absolute;
+        padding: 36px;
+        border-radius: 18px;
+        height: 215px;
+        -webkit-border-radius: 18px;
+        -moz-border-radius: 18px;
+        -ms-border-radius: 18px;
+        -o-border-radius: 18px;
+}
+.prénom{
+    background-color: black;
+    color: white;
+}
+.nom{
+    background-color: black;
+    color: white;
+}
+.email{
+    background-color: black;
+    color: white;
+}
+.ville{
+    background-color: black;
+    color: white;
+}
+.msg{
+    margin-top: 12px;
+    background-color: black;
+    color: white;
+}
+.submit{
+    background-color: #C12E38;
+    color: white;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    width: 206px;
+    height: 35px;
+    margin-left: -24px;
+}
+
+
+
+.picture{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    margin-top: 50px;
+  
+
+
+  
+}
+
+.pic{
+        width: 200px;
+        height: 200px;
+        color: white;
+    }
+div{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+footer{
+    background-color: #C12E38;
+}
+
+.footer-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    margin-top: 84px;
+}
+
+a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+}
